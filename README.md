@@ -1,3 +1,7 @@
+# React Youtube Viewer
+
+To use, generate an API key for the Youtube data API by going to [console.developers.google.com](https://console.developers.google.com), and set the KEY const in /src/apis/youtube.js to the API key value.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
